@@ -8,6 +8,7 @@
     "start": "ts-node-dev src/index.ts"
   },
   "dependencies": {
+    "@koa/cors": "^3.1.0",
     "koa": "^2.13.0",
     "koa-bodyparser": "^4.3.0",
     "koa-json": "^2.0.2",
